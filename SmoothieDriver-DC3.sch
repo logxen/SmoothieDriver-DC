@@ -13951,18 +13951,21 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <pinref part="R1" gate="G$1" pin="1"/>
 <wire x1="314.96" y1="190.5" x2="314.96" y2="187.96" width="0.1524" layer="91"/>
 <wire x1="314.96" y1="187.96" x2="312.42" y2="187.96" width="0.1524" layer="91"/>
+<label x="317.5" y="185.42" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="R2" gate="G$1" pin="1"/>
 <wire x1="314.96" y1="137.16" x2="314.96" y2="139.7" width="0.1524" layer="91"/>
 <wire x1="312.42" y1="137.16" x2="314.96" y2="137.16" width="0.1524" layer="91"/>
 <pinref part="U$24" gate="G$1" pin="P$2"/>
+<label x="317.5" y="134.62" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="R3" gate="G$1" pin="1"/>
 <wire x1="314.96" y1="86.36" x2="314.96" y2="88.9" width="0.1524" layer="91"/>
 <wire x1="312.42" y1="86.36" x2="314.96" y2="86.36" width="0.1524" layer="91"/>
 <pinref part="U$25" gate="G$1" pin="P$2"/>
+<label x="317.5" y="83.82" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="Q2" gate="G$1" pin="E"/>
